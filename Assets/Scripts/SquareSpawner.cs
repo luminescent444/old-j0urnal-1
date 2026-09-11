@@ -11,6 +11,6 @@ public class SquareSpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.DrawLine(Vector2.zero, Vector2.one);
     }
 }
